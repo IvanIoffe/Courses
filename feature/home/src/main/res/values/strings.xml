@@ -1,0 +1,4 @@
+<resources>
+    <string name="search_courses">Search courses…</string>
+    <string name="by_publish_date">По дате добавления</string>
+</resources>

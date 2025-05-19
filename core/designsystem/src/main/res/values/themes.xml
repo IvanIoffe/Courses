@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Base.Theme.Courses" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">#151515</item>
+        <item name="android:colorBackground">#151515</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textColor">#F2F2F3</item>
+    </style>
+
+    <style name="Theme.Courses" parent="Base.Theme.Courses" />
+
+</resources>

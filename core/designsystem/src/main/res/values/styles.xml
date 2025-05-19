@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Button.Primary" parent="Widget.Material3.Button">
+        <item name="android:textColor">#F2F2F3</item>
+        <item name="android:backgroundTint">@color/green</item>
+    </style>
+
+    <style name="Button.Secondary" parent="Widget.Material3.Button">
+        <item name="android:textColor">#F2F2F3</item>
+        <item name="android:backgroundTint">#32333A4D</item>
+    </style>
+
+    <style name="CardViewIconCircle" parent="Widget.Material3.CardView.Filled">
+        <item name="cardCornerRadius">100dp</item>
+        <item name="backgroundTint">@color/dark_gray</item>
+    </style>
+
+</resources>

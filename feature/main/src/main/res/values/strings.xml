@@ -1,0 +1,5 @@
+<resources>
+    <string name="menu_bottom_nav_home_title">Главная</string>
+    <string name="menu_bottom_nav_favourites_title">Избранное</string>
+    <string name="menu_bottom_nav_profile_title">Аккаунт</string>
+</resources>

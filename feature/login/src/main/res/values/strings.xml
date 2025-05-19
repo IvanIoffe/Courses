@@ -1,0 +1,10 @@
+<resources>
+    <string name="input">Вход</string>
+    <string name="email">Email</string>
+    <string name="email_hint">example@gmail.com</string>
+    <string name="password">Пароль</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="no_account">Нет аккаунта?</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="forgot_password">Забыл пароль</string>
+</resources>
